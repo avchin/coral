@@ -1,6 +1,4 @@
 """
-Adeline Chin
-Section AC
 This file contains the functions that plot calcification
 rates, water pH, and water temperature.
 """
