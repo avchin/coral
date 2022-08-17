@@ -1,6 +1,4 @@
 """
-Adeline Chin
-Section AC
 This file contains the functions for cleaning the data sets
 containing coral data.
 """
